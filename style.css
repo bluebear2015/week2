@@ -1,0 +1,29 @@
+.hero-image {
+    
+    background-image: url(pexels-pixabay-416832.jpg);
+    min-height: 95vh;
+background-position: center;
+background-size: cover;
+background-repeat: none;      
+} 
+.box-shade {
+    border: 2px solid #18063c;
+box-shadow: 10px 10px 6px rgb(53, 55, 51);
+border-radius: 30px;
+
+ }
+
+ .d-box {
+    border: 2px solid #18063c;
+box-shadow: 10px 10px 6px rgb(53, 55, 51);
+border-radius: 5px;
+background-color: black;
+max-width: 65%;
+ }
+ .diplay { 
+    display: inline-block;
+    border: #f820f1;
+    border-radius: 15px;
+    background-color: #804bec;
+
+ }
